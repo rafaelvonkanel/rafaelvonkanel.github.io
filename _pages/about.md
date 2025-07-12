@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! Welcome to my webpage!"
+title: ""
 hide_title: true
 author_profile: false
 redirect_from: 
