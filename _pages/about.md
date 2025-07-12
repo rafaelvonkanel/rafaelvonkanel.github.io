@@ -11,13 +11,13 @@ redirect_from:
 
 # Rafael von Kanel
 
-### Contact information
+## Contact information
 
 **Address**: Office 201, IAS TsingHua University, Beijing
 
 **Email**: rafaelvonkanel at gmail.com
 
-### Employment and Education
+## Employment and Education
 - **2019-now**: Associate member at IAS TsingHua University
 - **2015-2018**: PostDoc research fellow at Princeton University (mentor Zhang, S.)
 - **2013-2015**: PostDoc researcher at MPIM Bonn (mentor Faltings, G.)
