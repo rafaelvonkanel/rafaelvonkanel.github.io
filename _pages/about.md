@@ -13,9 +13,16 @@ redirect_from:
 
 ## Contact information
 
-**Address**: Office 201, IAS Tsinghua University, Beijing
-
-**Email**      : rafaelvonkanel at gmail.com
+<table style="border-collapse: collapse; width: auto;">
+  <tr>
+    <td style="text-align: right; font-weight: bold; padding-right: 1em; white-space: nowrap;">Address:</td>
+    <td style="text-align: left;">Office 201, IAS Tsinghua University, Beijing</td>
+  </tr>
+  <tr>
+    <td style="text-align: right; font-weight: bold; padding-right: 1em; white-space: nowrap;">Email:</td>
+    <td style="text-align: left;">rafaelvonkanel at gmail.com</td>
+  </tr>
+</table>
 
 ## Employment and Education
 - **2019 - now**: Associate member at [IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)
