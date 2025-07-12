@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Hi! Welcome to my webpage!"
-author_profile: true
+hide_title: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -14,7 +15,7 @@ redirect_from:
 
 **Address**: Office 201, IAS TsingHua University, Beijing
 
-**Email  **: rafaelvonkanel at gmail.com
+**Email**: rafaelvonkanel at gmail.com
 
 ### Employment and Education
 - **2019-now**: Associate member at IAS TsingHua University
