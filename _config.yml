@@ -259,15 +259,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _researches
   - scope:
       path: ""
-      type: publications
+      type: researches
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
