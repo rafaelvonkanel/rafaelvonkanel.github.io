@@ -13,4 +13,4 @@ math: true
 author_profile: false
 ---
 
-Test for math: $GL(n, Z)$
+Test for math: \\(GL(n, Z)\\)
