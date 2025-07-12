@@ -18,7 +18,7 @@ redirect_from:
 **Email**: rafaelvonkanel at gmail.com
 
 ## Employment and Education
-- **2019-now**: Associate member at ![IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)
+- **2019-now**: Associate member at [IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)
 - **2015-2018**: PostDoc research fellow at Princeton University (mentor Zhang, S.)
 - **2013-2015**: PostDoc researcher at MPIM Bonn (mentor Faltings, G.)
 - **2012-2013**: PostDoc researcher at IHES (mentor Soule, C.)
