@@ -19,6 +19,6 @@ Research interest: text
 &nbsp;&nbsp; With myself  
 [2 ] *Project 2*  
 &nbsp;&nbsp;&nbsp; (i) test 1  
-&nbsp;&nbsp;&nbsp; (ii) test 2
+&nbsp;&nbsp;&nbsp; (ii) test 2  
 [3 ] *Project 3*
 </small>
