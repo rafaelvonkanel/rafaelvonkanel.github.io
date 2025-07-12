@@ -12,8 +12,6 @@ Research interest: text
 
 &nbsp;&nbsp;&nbsp; text
 
-## Projects
+&nbsp;&nbsp;&nbsp; Projects:
 
-### Project 1
-
-### Project 2
+[1 ] *Project 1* (2222, [abstract](../_research/proj1.md), [arXiv](https://academicpages.github.io/markdown/))
