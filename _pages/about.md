@@ -19,9 +19,9 @@ redirect_from:
 
 ## Employment and Education
 - **2019-now**: Associate member at [IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)
-- **2015-2018**: PostDoc research fellow at Princeton University (mentor Zhang, S.)
-- **2013-2015**: PostDoc researcher at MPIM Bonn (mentor Faltings, G.)
-- **2012-2013**: PostDoc researcher at IHES (mentor Soule, C.)
-- **2011-2012**: Member at IAS Princeton (mentor Sarnak, P. and Taylor, R.)
-- **2009-2010**: PhD studies in Mathematics at ETH Zurich (advisor Wustholz, G.)
-- **2005-2009**: Undergraduate studies in Mathematics at ETH Zurich
+- **2015-2018**: PostDoc research fellow at [Princeton University](https://www.math.princeton.edu/) (mentor Zhang, S.)
+- **2013-2015**: PostDoc researcher at [MPIM Bonn](https://www.mpim-bonn.mpg.de/) (mentor Faltings, G.)
+- **2012-2013**: PostDoc researcher at [IHES](https://www.ihes.fr/en/) (mentor Soule, C.)
+- **2011-2012**: Member at [IAS Princeton](https://www.ias.edu/math) (mentor Sarnak, P. and Taylor, R.)
+- **2009-2010**: PhD studies in Mathematics at [ETH Zurich](https://math.ethz.ch/) (advisor Wustholz, G.)
+- **2005-2009**: Undergraduate studies in Mathematics at [ETH Zurich](https://math.ethz.ch/)
