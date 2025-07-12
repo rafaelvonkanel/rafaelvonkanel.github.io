@@ -13,8 +13,7 @@ redirect_from:
 
 ## Contact information
 
-Address: Office 201, IAS Tsinghua University, Beijing
-
+Address: Office 201, IAS Tsinghua University, Beijing  
 Email: rafaelvonkanel at gmail.com
 
 ## Employment and Education
