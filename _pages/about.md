@@ -24,3 +24,6 @@ Email: rafaelvonkanel at gmail.com
 - **2011 - 2012**: Member at [IAS Princeton](https://www.ias.edu/math) (mentors Sarnak, P. and Taylor, R.)
 - **2009 - 2010**: PhD studies in Mathematics at [ETH Zurich](https://math.ethz.ch/) (advisor W&uuml;stholz, G.)
 - **2005 - 2009**: Undergraduate studies in Mathematics at [ETH Zurich](https://math.ethz.ch/)
+
+##  Research interest:
+Diophantine equations
