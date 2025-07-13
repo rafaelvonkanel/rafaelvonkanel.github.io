@@ -7,9 +7,9 @@ author_profile: false
 
 #### Diophantine equations and moduli schemes
 
-<div style="text-align: justify;"markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea see for example the [talk](www.ias.edu/video/short/vonkenel) at IAS (2011) which gives a first application of the strategy to the classical Mordell equations \\(x^3-y^2=a\\).</small></div>
+<p style="text-align: justify;"markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea see for example the [talk](www.ias.edu/video/short/vonkenel) at IAS (2011) which gives a first application of the strategy to the classical Mordell equations \\(x^3-y^2=a\\).</small></p>
 
-<div style="text-align: justify;"markdown="1"><small>
+<p style="text-align: justify;"markdown="1"><small>
 [1] *Rational points and rational moduli spaces* (2025, [abstract](../_research/proj2.md), [arXiv](https://arxiv.org/pdf/2501.17155)): With S. Fan, 61 pages, submitted.  
 [2] *Integral points on moduli schemes*  (2023, [abstract](../_research/proj2.md), [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744)): Conference proceedings Biennal JNT (2022).  
 [3] *Integral points on (coarse) Hilbert moduli schemes*: Joint project with A. Kret consisting of two parts.  
@@ -22,4 +22,4 @@ author_profile: false
 [5] *Modularity and integral points on moduli schemes* (2013, [abstract](../_research/proj2.md), [arXiv](https://arxiv.org/abs/1310.7263)). This project consists of two parts: Sections 1-7 are published in (i), and the remaining part is published in (ii) except Section 9.4 which was included in [3].  
 &nbsp;&nbsp;&nbsp; (i) *Integral points on moduli schemes of elliptic curves* (2013, [abstract](../_research/proj2.md), [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/tlms/tlu003)).  
 &nbsp;&nbsp;&nbsp; (ii) *The effective Shafarevich conjecture for abelian varieties of \\(\text{GL(2)}\\)-type* (2013, [abstract](../_research/proj2.md), [journal](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/effective-shafarevich-conjecture-for-abelian-varieties-of-text-gl2type/5DA2DC5985591DFBC9A26C20BA22F49B)).
-</small></div>
+</small></p>
