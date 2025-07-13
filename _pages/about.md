@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<small>
 # Rafael von K&auml;nel
 
 ## Contact information
@@ -27,3 +27,5 @@ Email: rafaelvonkanel at gmail.com
 
 ##  Research interest
 Diophantine equations
+
+</small>
