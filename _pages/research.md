@@ -12,8 +12,12 @@ author_profile: false
 <small>
 [1 ] *Rational points and rational moduli spaces* (2025, abstract<!--(../_research/proj1.md)-->, [arXiv](https://arxiv.org/pdf/2501.17155))  
 &nbsp;&nbsp; With S. Fan, 61 pages, submitted.  
-[2 ] *Project 2*  
-&nbsp;&nbsp;&nbsp; (i) test 1  
+[2 ] *Integral points on moduli schemes*  (2023, abstract, [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744))
+&nbsp;&nbsp; Survey for Biennal JNT conference (2022) proceedings。
+[3 ] *Integral points on (coarse) Hilbert moduli schemes*
+&nbsp;&nbsp; This joint project with A. Kret consists of two parts:
+&nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019, abstract, [arXiv](https://arxiv.org/abs/1904.03503))
+&nbsp;&nbsp;&nbsp;&nbsp; With A. Kret, 53 pages, submitted.
 &nbsp;&nbsp;&nbsp; (ii) test 2  
 [3 ] *Project 3*  
 [4 ] *Project 4*  
