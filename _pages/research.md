@@ -17,7 +17,7 @@ author_profile: false
 [3 ] *Integral points on (coarse) Hilbert moduli schemes*  
 &nbsp;&nbsp; This joint project with A. Kret consists of two parts:  
 &nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019, abstract, [arXiv](https://arxiv.org/abs/1904.03503))  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With A. Kret, 53 pages, submitted.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With A. Kret, 53 pages, submitted.  
 &nbsp;&nbsp;&nbsp; (ii) test 2  
 [4 ] *Project 3*  
 [5 ] *Project 4*  
