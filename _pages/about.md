@@ -25,5 +25,5 @@ Email: rafaelvonkanel at gmail.com
 - **2009 - 2010**: PhD studies in Mathematics at [ETH Zurich](https://math.ethz.ch/) (advisor W&uuml;stholz, G.)
 - **2005 - 2009**: Undergraduate studies in Mathematics at [ETH Zurich](https://math.ethz.ch/)
 
-##  Research interest:
+##  Research interest
 Diophantine equations
