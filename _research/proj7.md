@@ -1,5 +1,5 @@
 ---
-title: "Integral points on moduli schemes"
+title: "Integral points on moduli schemes of elliptic curves"
 
 
 
