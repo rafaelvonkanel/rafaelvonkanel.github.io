@@ -11,7 +11,7 @@ author_profile: false
 [1] *Rational points and rational moduli spaces* (2025): With S. Fan, 61 pages, submitted ([abstract](../_research/proj2.md), [arXiv](https://arxiv.org/pdf/2501.17155)).  
 [2] *Integral points on moduli schemes*  (2023): Conference proceedings Biennal JNT 2022: JNT 2025 ([abstract](../_research/proj2.md), [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744)).  
 [3] *Integral points on (coarse) Hilbert moduli schemes*: Joint project with A. Kret consisting of two parts.  
-&nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019): With A. Kret, 53 pages, submitted ([abstract](../_research/proj2.md), [arXiv](https://arxiv.org/abs/1904.03503)).  
+&nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019): With A. Kret, 53 pages, submitted ([abstract](../_research/proj3.md), [arXiv](https://arxiv.org/abs/1904.03503)).  
 &nbsp;&nbsp;&nbsp; (ii) *Integral points on coarse Hilbert moduli schemes*  (2023): With A. Kret, 150 pages, submitted ([abstract](../_research/proj2.md), [arXiv](https://arxiv.org/abs/2307.06944)).  
 [4] *Solving classical Diophantine equations*: Joint project with B. Matschke consisting of three parts.  
 &nbsp;&nbsp;&nbsp; (i) *Solving \\(S\\)-unit, Mordell, Thue, Thue–Mahler and generalized Ramanujan–Nagell equations via Shimura–Taniyama conjecture* (2016): With B. Matschke: 163 pages: Memoirs of AMS 2023 ([abstract](../_research/proj2.md), [arXiv](https://arxiv.org/abs/1605.06079), [journal](https://bookstore.ams.org/view?ProductCode=MEMO/286/1419)).  
