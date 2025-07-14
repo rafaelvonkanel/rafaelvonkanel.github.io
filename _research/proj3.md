@@ -1,10 +1,5 @@
-
 ---
 title: "Integral points on Hilbert moduli schemes"
-
-
-
-
 
 
 layout: single
