@@ -6,9 +6,9 @@ author_profile: false
 ---
 
 #### Diophantine equations and moduli schemes  
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea see the IAS [lecture](www.ias.edu/video/short/vonkenel) (2011) on a first application to the classical Mordell equations \\(x^3-y^2=a\\).</small>  
+<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea see the IAS [talk](www.ias.edu/video/short/vonkenel) (2011) on a first application to the classical Mordell equations \\(x^3-y^2=a\\).</small>  
 <div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>
-[1] *Rational points and rational moduli spaces* (2025, [abstract](../_research/proj2.md), [arXiv](https://arxiv.org/pdf/2501.17155)): With S. Fan, 61 pages, submitted.  
+[1] *Rational points and rational moduli spaces* (2025): With S. Fan, 61 pages, submitted ([abstract](../_research/proj2.md), [arXiv](https://arxiv.org/pdf/2501.17155)).  
 [2] *Integral points on moduli schemes*  (2023, [abstract](../_research/proj2.md), [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744)): Conference proceedings Biennal JNT (2022).  
 [3] *Integral points on (coarse) Hilbert moduli schemes*: Joint project with A. Kret consisting of two parts.  
 &nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019, [abstract](../_research/proj2.md), [arXiv](https://arxiv.org/abs/1904.03503)): With A. Kret, 53 pages, submitted.  
