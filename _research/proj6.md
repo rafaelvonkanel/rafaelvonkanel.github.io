@@ -1,5 +1,5 @@
 ---
-title: "Integral points on moduli schemes"
+title: "Modularity and integral points on moduli schemes"
 
 
 
