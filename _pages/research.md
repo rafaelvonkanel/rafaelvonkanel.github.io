@@ -23,7 +23,7 @@ author_profile: false
 </small>
 
 #### Effective Shafarevich conjecture for curves and conjectures of Szpiro  
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Another part of my research is about the effective Shafarevich conjecture for curves over number fieldsk (in particular curves of genus one and two) and applications to conjectures of Szpiro.</small>  
+<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Another part of my research is about the effective Shafarevich conjecture for curves over number fields \\(k\\) (in particular curves of genus one and two) and applications to conjectures of Szpiro.</small>  
 <div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>
 [6] *Szpiro's small points conjecture for cyclic covers* (2012): With A. Javanpeykar (abstract, [arXiv](https://arxiv.org/abs/1311.0043), [journal](https://ems.press/content/serial-article-files/26254)).  
 [7] *On Szpiro's discriminant conjecture* (2012, abstract, [arXiv](https://arxiv.org/abs/1310.7980), [journal](https://academic.oup.com/imrn/article-abstract/2014/16/4457/795558)).  
