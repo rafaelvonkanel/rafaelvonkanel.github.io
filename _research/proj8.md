@@ -1,5 +1,5 @@
 ---
-title: "The effective Shafarevich conjecture for abelian varieties of \\(\text{GL}_2-\\)type"
+title: "The effective Shafarevich conjecture for abelian varieties of GL(2)-type"
 
 
 
