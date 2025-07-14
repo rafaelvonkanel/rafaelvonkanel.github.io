@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Paper Title Number 1"
 collection: research
@@ -19,3 +20,4 @@ We study various geometric aspects of the non-degenerate criterion and we deduce
 
 
 We illustrate our approach in the case when $M$ is the Hilbert modular surface given by the classical icosahedron surface studied by Clebsch, Klein and Hirzebruch. For any curve $X$ over \\(\mathbb{QQ}\\), we construct and study explicit projective models $Y\subset\bar{M}$ called ico models. If \\(X\\) is non-degenerate, then we give via $Y$ an effective Par&scaron;in construction and an explicit Weil height bound for \\(x\in U(\mathbb{QQ})\\). As most ico models are non-degenerate and \\(X\setminus U\\) is controlled,  this establishes the effective Mordell conjecture for large classes of (explicit) curves over \\(\mathbb{QQ}\\). We also solve the ico analogue of the generalized Fermat problem by combining our height bounds with Diophantine approximations.
+-->
