@@ -29,7 +29,7 @@ author_profile: false
 [7] *On Szpiro's discriminant conjecture* (2012): 35pp, IMRN 2014 ([abstract](../_research/proj10.md), [arXiv](https://arxiv.org/abs/1310.7980), [journal](https://academic.oup.com/imrn/article-abstract/2014/16/4457/795558)).  
 [8] *An effective proof of the hyperelliptic Shafarevich conjecture* (2011): 24pp, JTNB 2014 ([abstract](../_research/proj11.md), [arXiv](https://arxiv.org/abs/1310.6727), [journal](https://jtnb.centre-mersenne.org/item/10.5802/jtnb.877.pdf)).  
 [9] *An effective Shafarevich theorem for elliptic curves* (2010): With C. Fuchs, G. W&uuml;stholz, 16pp, Acta Arith. 2011 ([abstract](../_research/proj12.md), [journal](https://www.impan.pl/pl/wydawnictwa/czasopisma-i-serie-wydawnicze/acta-arithmetica/all/148/2/82781/an-effective-shafarevich-theorem-for-elliptic-curves)).  
-[10] *An effective proof of the hyperelliptic Shafarevich conjecture and applications* (2010): PhD thesis, published [online](https://www.research-collection.ethz.ch/handle/20.500.11850/152554) in Research Collection of ETHZ ([abstract](../_research/proj13.md), pdf).  
+[10] *An effective proof of the hyperelliptic Shafarevich conjecture and applications* (2010): PhD thesis, published [online](https://www.research-collection.ethz.ch/handle/20.500.11850/152554) in Research Collection of ETHZ ([abstract](../_research/proj13.md)).  
 </small> 
   
   
