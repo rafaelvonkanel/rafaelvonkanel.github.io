@@ -20,6 +20,8 @@ author_profile: false
 [5] *Modularity and integral points on moduli schemes* (2013, [abstract](../_research/proj6.md), [arXiv](https://arxiv.org/abs/1310.7263)). This project consists of two parts: Sections 1-7 are published in (i), and the remaining part is published in (ii) except Section 9.4 which was included in [3].  
 &nbsp;&nbsp;&nbsp; (i) *Integral points on moduli schemes of elliptic curves* (2013): 31pp, Trans. London Math. Soc 2014 ([abstract](../_research/proj7.md), [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/tlms/tlu003)).  
 &nbsp;&nbsp;&nbsp; (ii) *The effective Shafarevich conjecture for abelian varieties of \\(\text{GL}_2\\)-type* (2013): 39pp, FoM Sigma 2021 ([abstract](../_research/proj8.md), [journal](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/effective-shafarevich-conjecture-for-abelian-varieties-of-text-gl2type/5DA2DC5985591DFBC9A26C20BA22F49B)).
+
+[talk](www.ias.edu/video/short/vonkenel)
 </small>
 
 #### Effective Shafarevich conjecture for curves and conjectures of Szpiro  
