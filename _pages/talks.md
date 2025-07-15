@@ -36,6 +36,9 @@ Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29
 Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vienna), Nov 29, 2013.  
 Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
 The effective Shafarevich conjecture for abelian varieties of GL2-type ([abstract](../_talks/2013-10-17-talk.md)), MPIM Bonn Oberseminar, Oct 17, 2013.  
+Heights and conductors of elliptic curves ([abstract](../_talks/2012-03-21-talk.md)), Michigan State University Algebra seminar, March 21, 2012.  
+Inequalities relating invariants of elliptic curves ([abstract](../_talks/2012-02-03-talk.md)), Szpiro's collaborative seminar (CUNY), Feb 3, 2012.  
+Heights, discriminants and conductors ([abstract](../_talks/2012-01-05-talk.md)), PU/IAS NT seminar, Jan 5, 2012.  
 Diophantine Geometry ([abstract](../_talks/2011-10-07-talk.md), [video](https://www.ias.edu/video/short/vonkenel)), IAS Princeton short talks, Oct 7, 2011.  
 Finiteness proofs for S-integral points on \\(\mathbb{P}^1−\lbrace 0, 1, \infty\rbrace\\) ([abstract](../_talks/2011-09-29-talk.md)), Princeton NT working seminar of Skinner, Taylor, Zhang, Sept 29, 2011.  
 An effective proof of the hyperelliptic Shafarevich conjecture ([abstract](../_talks/2011-06-13-talk.md)), Conference Arithmetic Days Moscow, June 13, 2011.  
