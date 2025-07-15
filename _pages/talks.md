@@ -24,4 +24,8 @@ Integral points on coarse Hilbert moduli schemes ([abstract](../_talks/2022-08-2
 Integral points on coarse Hilbert moduli schemes ([abstract](../_talks/2022-08-16-talk.md)), Mordell 2022 Conference Cambridge, Aug 16, 2022.  
 Integral points on coarse Hilbert moduli schemes ([abstract](../_talks/2022-07-19-talk.md)), 2nd Biennal JNT conference Cetraro, July 19, 2022.  
 Integral points on coarse Hilbert moduli schemes ([abstract](../_talks/2021-05-26-talk.md)), 8th National Chinese NT Conference Jintan, May 26, 2021.  
+Integral Points on Moduli Schemes and Siegel’s Theorem ([abstract](../_talks/2019-05-21-talk.md)), Diophantine geometry conference (TCPS, Taipei) in honor of J. Yu, May 21, 2019.  
+On the representability of moduli problems on Hilbert moduli stacks ([abstract](../_talks/2019-01-20-talk.md)), Conference on Periods and L-functions (70th Birthday of G. Wustholz) in Sanya, Jan 20, 2019.  
+Integral points on Hilbert modular varieties ([abstract](../_talks/2018-05-15-talk.md)), MIT NT seminar, May 15, 2018.  
+On Mordell equations ([abstract](../_talks/2017-06-07-talk.md)), Conference Journees Algophantiennes Bordeaux, June 7, 2017.  
 </small>
