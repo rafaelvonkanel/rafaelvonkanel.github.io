@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Talks"
+<!--title: "Talks"-->
 permalink: /talks/
 author_profile: false
 ---
 
 #### Talks
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>
+<small>
 - Integral points on the Clebsch-Klein surfaces ([abstract](../_talks/2024-04-24-talk.md)), Peking University NT seminar, Apr 24, 2024.
 - Integral points on the Clebsch-Klein surfaces ([abstract](../_talks/2024-01-10-talk.md)), NT seminar at MCM, Jan 10, 2024.
 - Integral points on the Clebsch-Klein surfaces ([abstract](../_talks/2023-12-13-talk.md)), Zhejiang University NT & RT seminar, Dec 13, 2023.
