@@ -31,9 +31,19 @@ Integral points on Hilbert modular varieties ([abstract](../_talks/2018-05-15-ta
 On Mordell equations ([abstract](../_talks/2017-06-07-talk.md)), Conference Journees Algophantiennes Bordeaux, June 7, 2017.  
 Integral points on Hilbert modular varieties ([abstract](../_talks/2017-04-06-talk.md)), Quebec-Vermont NT seminar (Mc Gill University), April 6, 2017.  
 Integral points on Hilbert modular varieties ([abstract](../_talks/2017-02-16-talk.md)), Workshop on Heights (Fields Institute Toronto), Feb 16, 2017.  
+ Integral points on moduli schemes and Thue equations ([abstract](../_talks/2017-02-01-talk.md)), Rochester University NT seminar, Feb 1, 2017.  
+Integral points on Hilbert modular varieties ([abstract](../_talks/2016-12-19-talk.md)),  University of Zurich Algebraic Geometry Seminar, Dec 19, 2016.  
 Integral points on moduli schemes and Thue equations ([abstract](../_talks/2016-12-01-talk.md)), PU/IAS NT seminar, Dec 1, 2016.  
+Sieves for Diophantine equations ([abstract](../_talks/2016-11-01-talk.md)),, Sandia National Laboratories (Livermore), Nov 1, 2016.  
+Integral points on moduli schemes ([abstract](../_talks/2016-04-21-talk.md)), Madison-Wisconsin NT seminar, April 21, 2016.  
 Solving Mordell equations via Shimura-Taniyama conjecture ([abstract](../_talks/2015-07-29-talk.md)), MPIM Bonn NT seminar, July 29, 2015.  
+Solving S-unit and Mordell equations via Shimura–Taniyama conjecture ([abstract](../_talks/2015-06-19-talk.md)), Basel NT seminar, June 19, 2015.  
 Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29-talk.md)), Humboldt University Arithmetic Geometry seminar, Jan 29, 2015.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2014-12-02-talk.md)), SNS Pisa NT seminar, Dec 2, 2014.  
+Integral points on moduli schemes ([abstract](../_talks/2014-07-23-talk.md)), Diophantine geometry conference (ERC) in Cetraro, July 23, 2014.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2014-06-20-talk.md)), Caen University NT seminar, June 20, 2014.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2014-05-27-talk.md)), Darmstad University Algebra seminar, May 27, 2014.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2014-04-04-talk.md)), Bordeaux University NT seminar, April 4, 2014.  
 Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vienna), Nov 29, 2013.  
 Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
 The effective Shafarevich conjecture for abelian varieties of GL2-type ([abstract](../_talks/2013-10-17-talk.md)), MPIM Bonn Oberseminar, Oct 17, 2013.  
@@ -43,7 +53,6 @@ Heights and conductors of elliptic curves ([abstract](../_talks/2012-10-15-talk.
 Arakelov theory, modularity and Mordell equations ([abstract](../_talks/2012-10-03-talk.md)), IHES short talks, Oct 3, 2012.  
 Heights and conductors of elliptic curves ([abstract](../_talks/2012-06-19-talk.md)), Number theory Conference Hong Kong University, June 19, 2012.  
 On Mordell's equation ([abstract](../_talks/2012-06-15-talk.md)), Hong Kong University seminar, June 15, 2012.  
-Kim's proof of Siegel's theorem for \\(\mathbb{P}^1-\lbrace 0,1,\infty\rbrace\\) ([abstract](../_talks/2012-04-12-talk.md)) Princeton working seminar of Skinner, Taylor, Zhang, April 12, 19, 26, 2012.  
 Heights and conductors of elliptic curves ([abstract](../_talks/2012-03-21-talk.md)), Michigan State University Algebra seminar, March 21, 2012.  
 Inequalities relating invariants of elliptic curves ([abstract](../_talks/2012-02-03-talk.md)), Szpiro's collaborative seminar (CUNY), Feb 3, 2012.  
 Heights, discriminants and conductors ([abstract](../_talks/2012-01-05-talk.md)), PU/IAS NT seminar, Jan 5, 2012.  
