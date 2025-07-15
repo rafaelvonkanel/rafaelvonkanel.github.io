@@ -28,4 +28,11 @@ Integral Points on Moduli Schemes and Siegel’s Theorem ([abstract](../_talks/2
 On the representability of moduli problems on Hilbert moduli stacks ([abstract](../_talks/2019-01-20-talk.md)), Conference in honor of 70th Birthday of G. Wustholz in Sanya, Jan 20, 2019.  
 Integral points on Hilbert modular varieties ([abstract](../_talks/2018-05-15-talk.md)), MIT NT seminar, May 15, 2018.  
 On Mordell equations ([abstract](../_talks/2017-06-07-talk.md)), Conference Journees Algophantiennes Bordeaux, June 7, 2017.  
+Integral points on Hilbert modular varieties ([abstract](../_talks/2017-04-06-talk.md)), Quebec-Vermont NT seminar (Mc Gill University), April 6, 2017.  
+Integral points on Hilbert modular varieties ([abstract](../_talks/2017-02-16-talk.md)), Workshop on Heights (Fields Institute Toronto), Feb 16, 2017.  
+Integral points on moduli schemes and Thue equations ([abstract](../_talks/2016-12-01-talk.md)), PU/IAS NT seminar, Dec 1, 2016.  
+Solving Mordell equations via Shimura-Taniyama conjecture ([abstract](../_talks/2015-07-29-talk.md)), MPIM Bonn NT seminar, July 29, 2015.  
+Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29-talk.md)), Humboldt University Arithmetic Geometry seminar, Jan 29, 2015.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vieanna), Nov 29, 2013.  
+Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
 </small>
