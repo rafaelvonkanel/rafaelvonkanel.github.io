@@ -35,4 +35,5 @@ Solving Mordell equations via Shimura-Taniyama conjecture ([abstract](../_talks/
 Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29-talk.md)), Humboldt University Arithmetic Geometry seminar, Jan 29, 2015.  
 Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vienna), Nov 29, 2013.  
 Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
+The effective Shafarevich conjecture for abelian varieties of GL2-type ([abstract](../_talks/2013-10-17-talk.md)), MPIM Bonn Oberseminar, Oct 17, 2013.
 </small>
