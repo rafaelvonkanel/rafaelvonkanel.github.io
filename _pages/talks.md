@@ -36,8 +36,13 @@ Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29
 Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vienna), Nov 29, 2013.  
 Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
 The effective Shafarevich conjecture for abelian varieties of GL2-type ([abstract](../_talks/2013-10-17-talk.md)), MPIM Bonn Oberseminar, Oct 17, 2013.  
+Modularity and integral points on moduli schemes ([abstract](../_talks/2013-05-17-talk.md)), ETH Zurich NT seminar, May 17, 2013.  
+Discriminants and small points of curves ([abstract](../_talks/2013-05-16-talk.md)), ETH Zurich Arithmetic and Geometry seminar, May 16, 2013.  
+Heights and conductors of elliptic curves ([abstract](../_talks/2012-10-15-talk.md)), Paris NT seminar l'IMJ-PRG, Oct 15, 2012.  
+Arakelov theory, modularity and Mordell equations ([abstract](../_talks/2012-10-03-talk.md)), IHES short talks, Oct 3, 2012.  
 Heights and conductors of elliptic curves ([abstract](../_talks/2012-06-19-talk.md)), Number theory Conference Hong Kong University, June 19, 2012.  
 On Mordell's equation ([abstract](../_talks/2012-06-15-talk.md)), Hong Kong University seminar, June 15, 2012.  
+Kim's proof of Siegel's theorem for \\(\mathbb{P}^1-\lbrace 0,1,\infty\rbrace\\) ([abstract](../_talks/2012-04-12-talk.md)) Princeton working seminar of Skinner, Taylor, Zhang, April 12, 19, 26, 2012.  
 Heights and conductors of elliptic curves ([abstract](../_talks/2012-03-21-talk.md)), Michigan State University Algebra seminar, March 21, 2012.  
 Inequalities relating invariants of elliptic curves ([abstract](../_talks/2012-02-03-talk.md)), Szpiro's collaborative seminar (CUNY), Feb 3, 2012.  
 Heights, discriminants and conductors ([abstract](../_talks/2012-01-05-talk.md)), PU/IAS NT seminar, Jan 5, 2012.  
