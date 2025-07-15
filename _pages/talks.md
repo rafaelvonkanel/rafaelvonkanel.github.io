@@ -34,7 +34,7 @@ Integral points on Hilbert modular varieties ([abstract](../_talks/2017-02-16-ta
  Integral points on moduli schemes and Thue equations ([abstract](../_talks/2017-02-01-talk.md)), Rochester University NT seminar, Feb 1, 2017.  
 Integral points on Hilbert modular varieties ([abstract](../_talks/2016-12-19-talk.md)),  University of Zurich Algebraic Geometry Seminar, Dec 19, 2016.  
 Integral points on moduli schemes and Thue equations ([abstract](../_talks/2016-12-01-talk.md)), PU/IAS NT seminar, Dec 1, 2016.  
-Sieves for Diophantine equations ([abstract](../_talks/2016-11-01-talk.md)),, Sandia National Laboratories (Livermore), Nov 1, 2016.  
+Sieves for Diophantine equations ([abstract](../_talks/2016-11-01-talk.md)), Sandia National Laboratories (Livermore), Nov 1, 2016.  
 Integral points on moduli schemes ([abstract](../_talks/2016-04-21-talk.md)), Madison-Wisconsin NT seminar, April 21, 2016.  
 Solving Mordell equations via Shimura-Taniyama conjecture ([abstract](../_talks/2015-07-29-talk.md)), MPIM Bonn NT seminar, July 29, 2015.  
 Solving S-unit and Mordell equations via Shimura–Taniyama conjecture ([abstract](../_talks/2015-06-19-talk.md)), Basel NT seminar, June 19, 2015.  
