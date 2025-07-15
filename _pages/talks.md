@@ -36,8 +36,8 @@ Discriminants and small points of cyclic covers ([abstract](../_talks/2015-01-29
 Modularity and integral points on moduli schemes ([abstract](../_talks/2013-11-29-talk.md)), Conference in Heights in Diophantine Geometry (ESI Vienna), Nov 29, 2013.  
 Integral points on moduli schemes of elliptic curves ([abstract](../_talks/2013-10-29-talk.md)), Manin's seminar MPIM Bonn, Oct 29, 2013.  
 The effective Shafarevich conjecture for abelian varieties of GL2-type ([abstract](../_talks/2013-10-17-talk.md)), MPIM Bonn Oberseminar, Oct 17, 2013.  
-Diophantine Geometry ([abstract](../_talks/2011-10-07-talk.md), [video](www.ias.edu/video/short/vonkenel)), IAS Princeton short talks, Oct 7, 2011.  
-Finiteness proofs for S-integral points on P1−{0, 1, ∞} ([abstract](../_talks/2011-09-29-talk.md)), Princeton NT working seminar of Skinner, Taylor, Zhang, Sept 29, 2011.  
+Diophantine Geometry ([abstract](../_talks/2011-10-07-talk.md), [video](https://www.ias.edu/video/short/vonkenel)), IAS Princeton short talks, Oct 7, 2011.  
+Finiteness proofs for S-integral points on \\(\mathbb{P}^1−\{0, 1, \infity\}\\) ([abstract](../_talks/2011-09-29-talk.md)), Princeton NT working seminar of Skinner, Taylor, Zhang, Sept 29, 2011.  
 An effective proof of the hyperelliptic Shafarevich conjecture ([abstract](../_talks/2011-06-13-talk.md)), Conference Arithmetic Days Moscow, June 13, 2011.  
 On Szpiro's discriminant conjecture ([abstract](../_talks/2011-04-29-talk.md)), Conference Heights 2011 (CNRS/IMUB), April 29, 2011.  
 On the modular degree conjecture ([abstract](../_talks/2011-03-03-talk.md)), ETHZ Arithmetic and Geometry seminar , March 3, 2011.  
