@@ -16,7 +16,7 @@ redirect_from:
 <small>Address: Office 201, IAS Tsinghua University, Beijing  
 Email: rafaelvonkanel at gmail.com</small>
 
-#### Employment and Education
+#### Work experience and Education
 - <small>**2019 - now**: Associate member at [IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)</small>
 - <small>**2015 - 2018**: PostDoc research fellow at [Princeton University](https://www.math.princeton.edu/) (mentor Zhang, S.)</small>
 - <small>**2013 - 2015**: PostDoc researcher at [MPIM Bonn](https://www.mpim-bonn.mpg.de/) (mentor Faltings, G.)</small>
