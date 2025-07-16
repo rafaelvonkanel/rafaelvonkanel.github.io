@@ -7,7 +7,7 @@ author_profile: false
 
 #### Talks
 <small>
-Non-degenerate Diophantine equations ([abstract](../_talks/2025-06-13-talk.md)), Debrecen University NT seminar, Sept, 2025. 
+Non-degenerate Diophantine equations ([abstract](../_talks/2025-06-13-talk.md)), Debrecen University NT seminar, Sept, 2025.  
 Non-degenerate Diophantine equations ([abstract](../_talks/2025-06-24-talk.md)), Goettingen University Diophantine Geometry seminar, June 24, 2025.   
 Integral points on the Clebsch-Klein surfaces ([abstract](../_talks/2025-03-17-talk.md)), Udine University seminar, March 17, 2025.  
 Ico models of curves and rational points ([abstract](../_talks/2025-03-12-talk.md)), Genova University NT seminar, March 12, 2025.  
