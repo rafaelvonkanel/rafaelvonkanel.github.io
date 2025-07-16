@@ -62,5 +62,5 @@ An effective proof of the hyperelliptic Shafarevich conjecture ([abstract](../_t
 On Szpiro's discriminant conjecture ([abstract](../_talks/2011-04-29-talk.md)), Conference Heights 2011 (CNRS/IMUB), April 29, 2011.  
 On the modular degree conjecture ([abstract](../_talks/2011-03-03-talk.md)), ETH Zurich Arithmetic & Geometry seminar , March 3, 2011.  
 An effective Shafarevich theorem for elliptic curves ([abstract](../_talks/2010-05-27-talk.md)), Conference Rational points (ETH Zurich), May 27, 2010.  
-An effective Shafarevich theorem for elliptic curves ([abstract](../_talks/2010-05-06-talk.md)), ETH Zurich Arithmetic & Geometry seminar, May 6, 2010.  
+An effective Shafarevich theorem for elliptic curves ([abstract](../_talks/2010-05-06-talk.md)), ETH Zurich Arithmetic & Geometry seminar, May 6, 2010.   
 </small>
