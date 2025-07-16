@@ -26,6 +26,6 @@ Email: rafaelvonkanel at gmail.com</small>
 - <small>**2005 - 2009**: Undergraduate studies in Mathematics at [ETH Zurich](https://math.ethz.ch/)</small>
 
 ####  Research interest
-<small>Diophantine equations</small> 
+<small>Diophantine equations</small>
 
 
