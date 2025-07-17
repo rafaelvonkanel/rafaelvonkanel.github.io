@@ -1,5 +1,5 @@
 ---
-title: "Integral points on moduli schemes"
+title: "Solving \\(S\\)-unit, Mordell, Thue, Thue–Mahler and generalized Ramanujan–Nagell equations via Shimura–Taniyama conjecture"
 
 
 
