@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 #### Diophantine equations and moduli schemes  
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea, see the IAS [talk](https://www.ias.edu/video/short/vonkenel) (2011) on a first application to the classical Mordell equations \\(x^3-y^2=a\\).</small>  
+<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea, see the [IAS talk](https://www.ias.edu/video/short/vonkenel) (2011) on a first application to the classical Mordell equations \\(x^3-y^2=a\\).</small>  
 <div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>
 [1] *Rational points and rational moduli spaces* (2025): With S. Fan, 61pp, submitted ([abstract](../_research/proj1.md), [arXiv](https://arxiv.org/pdf/2501.17155)).  
 [2] *Integral points on moduli schemes*  (2023): Conference proceedings Biennal JNT 2022, 71pp, JNT 2025 ([abstract](../_research/proj2.md), [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744)).  
