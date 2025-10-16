@@ -12,7 +12,10 @@ main:
     url: /research/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Students"
+    url: /students/   
 
   #- title: "Teaching"
   #  url: /teaching/    
