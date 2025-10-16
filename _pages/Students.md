@@ -1,13 +1,8 @@
 ---
-permalink: /
-title: ""
-hide_title: true
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+permalink: /students/
+title: "Students"
 ---
-
 
 ### Rafael von K&auml;nel
 
