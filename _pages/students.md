@@ -2,6 +2,8 @@
 layout: single
 title: "Students"
 permalink: /students/
+collection: students
+entries_layout: grid
 ---
 
 
