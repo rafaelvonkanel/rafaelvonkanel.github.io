@@ -217,9 +217,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-students:
+Students:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/  
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -248,8 +248,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
-  # _posts
+# _posts
   - scope:
       path: ""
       type: posts
