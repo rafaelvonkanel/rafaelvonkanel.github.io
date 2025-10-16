@@ -1,23 +1,31 @@
 ---
-layout: single
-title: "Students"
-permalink: /student/
+permalink: /
+title: ""
+hide_title: true
 author_profile: false
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-#### Diophantine equations and moduli schemes  
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>Since 2011, my research focuses on the development of an effective strategy (surveyed in [2]) for Diophantine equations related to moduli schemes. To get an idea, see the [IAS talk](https://www.ias.edu/video/short/vonkenel) (2011) on a first application to the classical Mordell equations \\(x^3-y^2=a\\).</small>  
-<div style="text-align: justify !important; text-justify: inter-word;" markdown="1"><small>
-[1] *Rational points and rational moduli spaces* (2025): With S. Fan, 61pp, submitted ([abstract](../_research/proj1.md), [arXiv](https://arxiv.org/pdf/2501.17155)).  
-[2] *Integral points on moduli schemes*  (2023): Conference proceedings Biennal JNT 2022, 71pp, JNT 2025 ([abstract](../_research/proj2.md), [journal](https://www.sciencedirect.com/science/article/abs/pii/S0022314X24001744)).  
-[3] *Integral points on (coarse) Hilbert moduli schemes*: Joint project with A. Kret consisting of two parts.  
-&nbsp;&nbsp;&nbsp; (i) *Integral points on Hilbert moduli schemes* (2019): With A. Kret, 53pp, submitted ([abstract](../_research/proj3.md), [arXiv](https://arxiv.org/abs/1904.03503)).  
-&nbsp;&nbsp;&nbsp; (ii) *Integral points on coarse Hilbert moduli schemes*  (2023): With A. Kret, 150pp, submitted ([abstract](../_research/proj4.md), [arXiv](https://arxiv.org/abs/2307.06944)).  
-[4] *Solving classical Diophantine equations*: Joint project with B. Matschke consisting of three parts.  
-&nbsp;&nbsp;&nbsp; (i) *Solving \\(S\\)-unit, Mordell, Thue, Thue–Mahler and generalized Ramanujan–Nagell equations via Shimura–Taniyama conjecture* (2016): With B. Matschke, 163pp, Memoirs of AMS 2023 ([abstract](../_research/proj5.md), [arXiv](https://arxiv.org/abs/1605.06079), [journal](https://bookstore.ams.org/view?ProductCode=MEMO/286/1419)).  
-&nbsp;&nbsp;&nbsp; (ii) Construction of rigorous algorithms ([source code](https://github.com/bmatschke/solving-classical-diophantine-equations)) which allow to efficiently solve various classical Diophantine problems.  
-&nbsp;&nbsp;&nbsp; (iii) Application of the algorithms in (ii) to obtain unconditional [databases](https://bmatschke.github.io/solving-classical-diophantine-equations/) containing all solutions of large classes of classical Diophantine problems: The data motivates classical conjectures and it led to the discovery of [new conjectures](https://bmatschke.github.io/solving-classical-diophantine-equations/) in (i).  
-[5] *Modularity and integral points on moduli schemes* (2013, [abstract](../_research/proj6.md), [arXiv](https://arxiv.org/abs/1310.7263)). This project consists of two parts: Sections 1-7 are published in (i), and the remaining part is published in (ii) except Section 9.4 which was included in [3].  
-&nbsp;&nbsp;&nbsp; (i) *Integral points on moduli schemes of elliptic curves* (2013): 31pp, Trans. London Math. Soc 2014 ([abstract](../_research/proj7.md), [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/tlms/tlu003)).  
-&nbsp;&nbsp;&nbsp; (ii) *The effective Shafarevich conjecture for abelian varieties of \\(\text{GL}_2\\)-type* (2013): 39pp, FoM Sigma 2021 ([abstract](../_research/proj8.md), [journal](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/effective-shafarevich-conjecture-for-abelian-varieties-of-text-gl2type/5DA2DC5985591DFBC9A26C20BA22F49B)).
-</small>
+
+### Rafael von K&auml;nel
+
+##### Contact information
+
+<small>Address: Office 201, IAS Tsinghua University, Beijing  AAAAA
+Email: rafaelvonkanel at gmail.com</small>
+
+#### Work experience and Education
+- <small>**2019 - now**: Associate member at [IAS Tsinghua University](https://www.ias.tsinghua.edu.cn/en/)</small>
+- <small>**2015 - 2018**: PostDoc research fellow at [Princeton University](https://www.math.princeton.edu/) (mentor Zhang, S.)</small>
+- <small>**2013 - 2015**: PostDoc researcher at [MPIM Bonn](https://www.mpim-bonn.mpg.de/) (mentor Faltings, G.)</small>
+- <small>**2012 - 2013**: PostDoc researcher at [IH&Eacute;S](https://www.ihes.fr/en/) (mentor Soul&eacute;, C.)</small>
+- <small>**2011 - 2012**: Member at [IAS Princeton](https://www.ias.edu/math) (mentors Sarnak, P. and Taylor, R.)</small>
+- <small>**2009 - 2010**: PhD studies in Mathematics at [ETH Zurich](https://math.ethz.ch/) (advisor W&uuml;stholz, G.)</small>
+- <small>**2005 - 2009**: Undergraduate studies in Mathematics at [ETH Zurich](https://math.ethz.ch/)</small> 
+
+####  Research interest
+<small>Diophantine equations</small>
+
+
