@@ -1,7 +1,7 @@
 ---
 layout: archive
 
-permalink: /talks/
+permalink: /students/
 author_profile: false
 ---
 
