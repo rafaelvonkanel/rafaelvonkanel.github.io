@@ -1,8 +1,9 @@
 ---
-layout: page
-permalink: /Students/
+layout: single
 title: "Students"
+permalink: /students/
 ---
+
 
 ### Rafael von K&auml;nel
 
